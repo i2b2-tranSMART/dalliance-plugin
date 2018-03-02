@@ -1,5 +1,5 @@
 class DalliancePluginGrailsPlugin {
-	def version = '16.2'
+	def version = '18.1-SNAPSHOT'
 	def grailsVersion = '2.3 > *'
 	def title = 'Dalliance Plugin for TranSMART'
 	def author = 'The Hyve'
